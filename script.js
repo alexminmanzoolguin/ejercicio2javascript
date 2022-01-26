@@ -1,3 +1,4 @@
+console.log("MANZO OLGUIN ALEX YAZMIN");
 const ejercicio2 = [
     {
       nombre: "Gabriel",
