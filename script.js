@@ -32,12 +32,12 @@ const ejercicio2 = [
   ];
   
   const arregloPersonas=[ejercicio2];
-  const admitirPaso=(persona) =>{
-      if(persona.edad >= 18){
-          console.log('puedes pasar ${persona.nombre} ${persona.edad}');
+function admitirPaso(persona) {
+      if(persona.edad >= 18 && persona.esFamiliar== true){
+         return ( console.log("la persona tiene el nombre:"+ persona.nombre +"y la tiene la edad"+ persona.edad));
 
       }else{
-          console.log('no puedes pasar ${persona.nombre} ${persona.edad');
+          return
       }
   }
-  arregloPersonas.forEach((persona) =>{admitirPaso(persona);});
+  ejercicio2.forEach(admitirPaso);
