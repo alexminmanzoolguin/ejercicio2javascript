@@ -9,3 +9,6 @@
 
 #Se muestre la captura del codigo en consola corriendo
 ![Image text](https://github.com/alexminmanzoolguin/ejercicio2javascript/blob/main/img/2022-01-26%20(10).png)
+
+#Se muestra la imagen de la pagina con los estilos
+![Image text](https://github.com/alexminmanzoolguin/ejercicio2javascript/blob/main/img/2022-01-26%20(12).png)
